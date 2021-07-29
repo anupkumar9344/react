@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.App h1{
+  color:aqua;
+  font-weight: 900;
+}
+.image img{
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  border: 2px solid rgb(161, 42, 42);
+  border-radius: 10px;
+}
