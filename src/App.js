@@ -22,7 +22,9 @@ function App() {
         <img src={img1} alt="" />
         <img src={img2} alt="" />
         <img src={img3} alt="" />
-
+        <img src={img1} alt="" />
+        <img src={img2} alt="" />
+        <img src={img3} alt="" />
         </div>
        
     if({curtime}){
