@@ -1,8 +1,7 @@
-.App {
-  text-align: center;
-}
+
 .App h1{
-  color:aqua;
+  text-align: center;
+  color:rgb(10, 56, 56);
   font-weight: 900;
 }
 .image img{
